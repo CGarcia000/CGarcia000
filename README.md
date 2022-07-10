@@ -10,7 +10,7 @@
 
 ###
 
-<!--<img align="right" width="350" height="auto" src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif"  />-->
+<img align="right" width="350" height="auto" src="no-idea.gif"  />
 
 <p align="left">
         ✨ Creating bugs since 2020 <br>
