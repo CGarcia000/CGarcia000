@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cecília Garcia and I'm a engineer student, from Brazil <br>Still got much to learn, then let's keep learning!</p>
+<p align="left">My name is Cecília Garcia and I'm a engineer student, from Brazil <br>Still got much to learn, then let's keep learning!</p> 
 
 ###
 
@@ -18,6 +18,8 @@
         🎯 Goals: To become a software engineer and get the code done! <br>
         🎲 Fun fact: I like to learn new tecnologies and play games in my free time
 </p>
+
+😎 You can contact me on my [Linkedin](https://www.linkedin.com/in/ceciliagsilveira/)!
 
 ###
 
